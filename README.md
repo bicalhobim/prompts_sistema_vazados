@@ -1,22 +1,20 @@
-![image](https://github.com/user-attachments/assets/ccd777ea-2a39-48de-9524-f8bc27872e7c)
+![imagem](https://github.com/user-attachments/assets/ccd777ea-2a39-48de-9524-f8bc27872e7c)
 
+# Vazamentos de Prompts do Sistema
 
-# System Prompts Leaks
+Coleção de instruções de mensagens do sistema para vários chatbots implantados publicamente.
 
-Collection of system message instructions for various publicly deployed chatbots.
+Tento citar todas as fontes quando a fonte é outra pessoa.
 
-I try to cite all sources when the source someone other than myself.
+Sinta-se à vontade para fazer RPs.
 
-Feel free to do PR's.
+Use a aba de discussões para discussões, não a aba de Problemas.
 
-Please use discussions tabs for discussions not the Issues tab.
+Informações de contato:
 
+e-mail: asgeirtj@gmail.com
+Nome de usuário do Discord: asgeirtj
+Perfil do X: https://x.com/asgeirtj
+Reddit: https://www.reddit.com/user/StableSable/
 
-Contact Info:
-
-email: asgeirtj at gmail.com  
-Discord username: asgeirtj  
-X profile: https://x.com/asgeirtj  
-reddit: https://www.reddit.com/user/StableSable/  
-
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/asgeirtj/system_prompts_leaks)
+[![Pergunte ao DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/asgeirtj/system_prompts_leaks)
